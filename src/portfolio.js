@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/mptamilan",
   gmail: "whiteroyaldev@hotmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
+  gitlab: "https://gitlab.com/mptamilan",
   facebook: "https://www.facebook.com/mptamilan72",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
