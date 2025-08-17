@@ -111,7 +111,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Karai HR SEC School",
-      logo: require("./assets/images/karaighss.png"),
+      logo: require("./assets/images/nothing.png"),
       subHeader: "A government higher Secondary School",
       duration: "2020-2028",
       desc: "I have learned English And Computer science"
