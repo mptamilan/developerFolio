@@ -155,12 +155,12 @@ const workExperiences = {
   experience: [
     {
       role: "Moderator & Developer",
-      company: "Apsara Hosting",
+      company: "APSARA HOSTING LLC",
       companylogo: require("./assets/images/ah.png"),
       date: "2025 – Present",
-      desc: "A developer & Moderator of Apsara Hosting",
+      desc: "https://apsara.lol",
       descBullets: [
-        "A developer & Moderator of Apsara Hosting"
+        "I'm a developer & Moderator of Apsara Hosting LLC"
       ]
     }
   ]
